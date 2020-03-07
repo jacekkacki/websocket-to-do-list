@@ -1,0 +1,15 @@
+{
+  "name": "websocket-to-do-list",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Jacek Kącki",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "nodemon": "^2.0.2",
+    "socket.io": "2.2.0"
+  }
+}
